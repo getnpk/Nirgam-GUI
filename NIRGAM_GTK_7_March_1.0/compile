@@ -1,0 +1,2 @@
+gcc -Wall -o nirgam nirgam_gtk.c  `pkg-config --cflags gtk+-2.0`     `pkg-config --libs gtk+-2.0`
+
